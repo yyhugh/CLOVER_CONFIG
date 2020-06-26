@@ -67,7 +67,7 @@
 
 **卡点5-安装进度100%后提示重装，可忽略，直接重启**
 
-![卡点5-100%Restart](./100%Restart.jpg)
+![卡点5-restart](./restart.jpg)
 
 **隐藏启动项**
 ![隐藏启动项](./hideEntry.jpg)
